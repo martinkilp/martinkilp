@@ -79,8 +79,10 @@
 [![WSL](https://img.shields.io/badge/WSL-0F80CC?style=for-the-badge&logo=linux&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
 
 
-## 🗄️ Servers & Infrastructure
+## 🗄️ Servers
 
+[![Windows Server](https://img.shields.io/badge/Windows_Server_2026-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows-server)
+[![WSL](https://img.shields.io/badge/WSL-0F80CC?style=for-the-badge&logo=linux&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
@@ -94,4 +96,4 @@
 [![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/virtualization/hyper-v/)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
-
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/)
