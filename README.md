@@ -32,6 +32,7 @@
     · 💻 Software Development
     · 📱 Digital & Media Technology
     · 🤖 AI-powered 🧠 Human-operated
+<br>
 
 
 ## Languages
@@ -48,6 +49,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresColor=white)
+<br>
 
 
 ## Covered Tech Stack
@@ -59,6 +61,7 @@
 [![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/blade)
 [![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/eloquent)
 [![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)](https://getcomposer.org/)
+<br>
 
 ## 🎨 Frontend
 
@@ -66,6 +69,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](https://daisyui.com/)
+<br>
 
 ## 🛠️ Tools & Runtime
 
@@ -77,7 +81,7 @@
 [![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)](https://www.codeblocks.org/)
 [![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![WSL](https://img.shields.io/badge/WSL-0F80CC?style=for-the-badge&logo=linux&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
-
+<br>
 
 ## 🗄️ Servers
 
@@ -90,6 +94,7 @@
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+<br>
 
 ## 🖥️ Virtualization & Infrastructure
 
