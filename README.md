@@ -29,9 +29,9 @@
 
 
 #   · 🏫 Techno TLN
-##  · 💻 Software Development
-##  · 📱 Digital & Media Technology
-##  · 🤖 AI-powered 🧠 Human-operated
+    · 💻 Software Development
+    · 📱 Digital & Media Technology
+    · 🤖 AI-powered 🧠 Human-operated
 
 
 ### Languages
@@ -47,3 +47,22 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresColor=white)
+
+
+### Preferred Stack
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://imgo/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)(https://laravel.com/docs/blade)
+![Composer](https://img.shieldsposer-885630?style=for-the-badge&logo=composer&logoColor=white)(https://getcomposer.org/)
+![Eloquent](https://img.shields.io/b-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)(https://laravel.com/docs/eloquent)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-theescript&logoColor=white)(https://www.typescriptlang.org/)
+![Vite](https://img.shields.io/badge/Vite-646Cfor-the-badge&logo=vite&logoColor=white)(https://vitejs.dev/)
+![npm](https://img.shields.io/badge/npm-tyle=for-the-badge&logo=npm&logoColor=white)(https://www.npmjs.com/)
+
+
