@@ -1,16 +1,30 @@
-## Hi there 👋
+<pre>
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   $ whoami                                               │
+│                                                          │
+│   ┌─ identity                                            │
+│   │  name        = "Martin"                              │
+│   │  it_telecom  = "unlocked in 2013"                    │
+│   │  dev_mode    = "activated in 2025"                   │
+│   │  power       = "☕ coffee"                           │
+│   │  bugs        = "included at no extra cost"           │
+│   │                                                      │
+│   └──────────────────────────────────────────────────────┘
+│                                                          │
+│   $ systemctl status martin                              │
+│                                                          │
+│   ● martin.service - Developer                           │
+│      Loaded:     active                                  │
+│      Runtime:    caffeine-powered                        │
+│      Sleep:      inactive                                │
+│      Bugs:       expected behavior                       │
+│                                                          │
+│   CurrentStatus: 200 OK ✓                                │
+│                                                          │
+│   > System message: Still compiling... ▌                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+</pre>
 
-<!--
-**martinkilp/martinkilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
