@@ -28,7 +28,10 @@
 </pre>
 
 
-# 🏫 Techno TLN · 💻 Software Development · 📱 Digital & Media Technology · 🤖 AI-powered 🧠 Human-operated
+#   · 🏫 Techno TLN
+    · 💻 Software Development
+    · 📱 Digital & Media Technology
+    · 🤖 AI-powered 🧠 Human-operated
 
 
 ## Languages
